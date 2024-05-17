@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRI_lab5_Server", "PRI_lab5_Server.csproj", "{0EB81098-9D04-42E9-9462-6FB1519D8DC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EB81098-9D04-42E9-9462-6FB1519D8DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB81098-9D04-42E9-9462-6FB1519D8DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB81098-9D04-42E9-9462-6FB1519D8DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB81098-9D04-42E9-9462-6FB1519D8DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8B8BB7C-EF06-4A18-8E90-13CCF314E6B0}
+	EndGlobalSection
+EndGlobal
